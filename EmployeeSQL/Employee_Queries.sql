@@ -88,3 +88,5 @@ SELECT last_name, COUNT(last_name)
 FROM public."Employees"
 GROUP BY last_name
 ORDER BY last_name desc;
+
+-- Bonus: Employee 499942 is April Foolsday.
