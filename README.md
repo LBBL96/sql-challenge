@@ -1,6 +1,4 @@
 # SQL Analysis of Employee Database
-SQL analysis of employee database
-
 A sampling of SQL queries and joins.
 
 Note that two options for table schema are included: id_Table_Schema.sql and
@@ -10,3 +8,4 @@ into tables created with the id_Table_Schema caused errors. I was able to add se
 for primary keys after pulling data in, however.
 
 ## Table Schema
+![Diagram](EmployeeSQL/Table_Diagram.png)
